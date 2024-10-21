@@ -3,7 +3,7 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
-    "prettier": "prettier --write --ignore-unknown .",
+    "prettier": "prettier sdhjfk --write --ignore-unknown .",
     "prettier:check": "prettier --check --ignore-unknown .",
     "start": "next start"
   },
